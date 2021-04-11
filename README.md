@@ -1,4 +1,4 @@
-# flutter_lottie_animation
+# Flutter Lottie Animation
 
 A new Flutter application.
 
