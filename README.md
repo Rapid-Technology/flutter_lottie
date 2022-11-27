@@ -1,6 +1,6 @@
 # Flutter Lottie Animation
 
-A new Flutter application.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/eCX-SzIb8SM/maxresdefault.jpg)](https://www.youtube.com/watch?v=eCX-SzIb8SM)
 
 ## Getting Started
 
